@@ -1,65 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 44 49" style="enable-background:new 0 0 44 49;" xml:space="preserve">
+	 viewBox="0 0 44 30.8" style="enable-background:new 0 0 44 30.8;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;}
-	.st1{font-family:'ArialMT';}
-	.st2{font-size:3px;}
-	.st3{font-size:2px;}
-	.st4{fill:#CCCCCC;}
-	.st5{fill:#641D1C;}
-	.st6{opacity:0.2;enable-background:new    ;}
-	.st7{fill:#852725;}
-	.st8{opacity:0.1;enable-background:new    ;}
-	.st9{opacity:0.2;fill:#FFFFFF;enable-background:new    ;}
-	.st10{fill:#E6E6E6;}
+	.st0{fill:#CCCCCC;}
+	.st1{fill:#641D1C;}
+	.st2{opacity:0.2;enable-background:new    ;}
+	.st3{fill:#852725;}
+	.st4{opacity:0.1;enable-background:new    ;}
+	.st5{opacity:0.2;fill:#FFFFFF;enable-background:new    ;}
+	.st6{fill:#E6E6E6;}
 </style>
-<rect x="2" y="29.8" class="st0" width="42" height="19.2"/>
-<text transform="matrix(1 0 0 1 2 31.9814)"><tspan x="0" y="0" class="st1 st2">Copyright (C) </tspan><tspan x="0" y="3.6" class="st1 st2">2017 Intel Corporation.</tspan><tspan x="0" y="7.6" class="st1 st3">This document is licensed under the Creative </tspan><tspan x="0" y="10" class="st1 st3">Commons Attribution 3.0 Unported License </tspan><tspan x="0" y="12.4" class="st1 st3">(“CC-BY-3.0”):https://creativecommons.org/ </tspan><tspan x="0" y="14.8" class="st1 st3">licenses/by/3.0/legalcode</tspan></text>
 <g id="BV_SW2" transform="translate(8.7817,8.95615)">
 	<g id="smd_157sw_4_">
 		<g id="_x30_.1.15.0.0_4_" transform="matrix(0,-1,1,0,0.777996,13.82)">
 			<g id="_x30_.1.15.0.0.0_4_">
-				<polygon id="_x30_.1.15.0.0.0.0_4_" class="st4" points="17.2,8 17.6,8 17.6,-4.2 0.2,-4.2 0.2,29.2 17.6,29.2 17.6,17 17.2,17 
+				<polygon id="_x30_.1.15.0.0.0.0_4_" class="st0" points="17.2,8 17.6,8 17.6,-4.2 0.2,-4.2 0.2,29.2 17.6,29.2 17.6,17 17.2,17 
 									"/>
-				<polygon id="_x30_.1.15.0.0.0.1_4_" class="st4" points="-2,17 -2.6,17 -2.6,29.2 14.8,29.2 14.8,-4.2 -2.6,-4.2 -2.6,8 -2,8 
+				<polygon id="_x30_.1.15.0.0.0.1_4_" class="st0" points="-2,17 -2.6,17 -2.6,29.2 14.8,29.2 14.8,-4.2 -2.6,-4.2 -2.6,8 -2,8 
 									"/>
-				<circle id="_x30_.1.15.0.0.0.2_4_" class="st5" cx="7.6" cy="12.6" r="5.5"/>
-				<path id="_x30_.1.15.0.0.0.3_4_" class="st6" d="M7.2,7c-3.1,0-5.5,2.4-5.5,5.5s2.4,5.5,5.5,5.5h0.2c-3.1,0-5.5-2.4-5.5-5.5
+				<circle id="_x30_.1.15.0.0.0.2_4_" class="st1" cx="7.6" cy="12.6" r="5.5"/>
+				<path id="_x30_.1.15.0.0.0.3_4_" class="st2" d="M7.2,7c-3.1,0-5.5,2.4-5.5,5.5S4.1,18,7.2,18h0.2c-3.1,0-5.5-2.4-5.5-5.5
 					S4.2,7,7.4,7H7.2z"/>
-				<circle id="_x30_.1.15.0.0.0.4_4_" class="st7" cx="7.6" cy="12.6" r="5.4"/>
-				<circle id="_x30_.1.15.0.0.0.5_4_" class="st7" cx="7.8" cy="12.6" r="5.4"/>
+				<circle id="_x30_.1.15.0.0.0.4_4_" class="st3" cx="7.6" cy="12.6" r="5.4"/>
+				<circle id="_x30_.1.15.0.0.0.5_4_" class="st3" cx="7.8" cy="12.6" r="5.4"/>
 				<g id="_x30_.1.15.0.0.0.6_4_">
-					<path id="_x30_.1.15.0.0.0.6.0_4_" class="st8" d="M12.9,12.4c0-3-2.4-5.4-5.4-5.4s-5.4,2.4-5.4,5.4v0.2c0-3,2.4-5.4,5.4-5.4
+					<path id="_x30_.1.15.0.0.0.6.0_4_" class="st4" d="M12.9,12.4c0-3-2.4-5.4-5.4-5.4s-5.4,2.4-5.4,5.4v0.2c0-3,2.4-5.4,5.4-5.4
 						s5.4,2.4,5.4,5.4V12.4z"/>
-					<path id="_x30_.1.15.0.0.0.6.1_4_" class="st9" d="M2.2,12.4c0,3,2.4,5.4,5.4,5.4s5.4-2.4,5.4-5.4v0.2c0,3-2.4,5.4-5.4,5.4
-						s-5.4-2.4-5.4-5.4V12.4z"/>
+					<path id="_x30_.1.15.0.0.0.6.1_4_" class="st5" d="M2.2,12.4c0,3,2.4,5.4,5.4,5.4s5.4-2.4,5.4-5.4v0.2c0,3-2.4,5.4-5.4,5.4
+						s-5.4-2.4-5.4-5.4C2.2,12.6,2.2,12.4,2.2,12.4z"/>
 				</g>
 				<g id="_x30_.1.15.0.0.0.7_4_" transform="matrix(-2.547107e-6,-1,1,-2.547107e-6,-14.7248,21.5506)">
-					<rect id="_x30_.1.15.0.0.0.7.0_4_" x="-7.8" y="31.9" class="st9" width="12.4" height="0.4"/>
+					<rect id="_x30_.1.15.0.0.0.7.0_4_" x="-7.8" y="31.9" class="st5" width="12.4" height="0.4"/>
 				</g>
 				<g id="_x30_.1.15.0.0.0.8_4_" transform="matrix(-2.547107e-6,-1,1,-2.547107e-6,-29.2355,36.0623)">
-					<rect id="_x30_.1.15.0.0.0.8.0_4_" x="28" y="46.4" class="st9" width="12.4" height="0.4"/>
+					<rect id="_x30_.1.15.0.0.0.8.0_4_" x="28" y="46.4" class="st5" width="12.4" height="0.4"/>
 				</g>
 				<g id="_x30_.1.15.0.0.0.9_4_" transform="matrix(-2.547107e-6,-1,1,-2.547107e-6,-21.6146,29.1724)">
-					<rect id="_x30_.1.15.0.0.0.9.0_4_" x="12.2" y="38.4" class="st9" width="8.9" height="0.4"/>
+					<rect id="_x30_.1.15.0.0.0.9.0_4_" x="12.2" y="38.4" class="st5" width="8.9" height="0.4"/>
 				</g>
 				<g id="_x30_.1.15.0.0.0.10_4_" transform="matrix(-2.547107e-6,-1,1,-2.547107e-6,3.4298,39.7056)">
-					<rect id="_x30_.1.15.0.0.0.10.0_4_" x="10.5" y="-6" class="st6" width="12.4" height="0.4"/>
+					<rect id="_x30_.1.15.0.0.0.10.0_4_" x="10.5" y="-6" class="st2" width="12.4" height="0.4"/>
 				</g>
 				<g id="_x30_.1.15.0.0.0.11_4_" transform="matrix(-2.547107e-6,-1,1,-2.547107e-6,-11.0816,54.2142)">
-					<rect id="_x30_.1.15.0.0.0.11.0_4_" x="46.2" y="8.5" class="st6" width="12.4" height="0.4"/>
+					<rect id="_x30_.1.15.0.0.0.11.0_4_" x="46.2" y="8.5" class="st2" width="12.4" height="0.4"/>
 				</g>
 				<g id="_x30_.1.15.0.0.0.12_4_" transform="matrix(-2.547107e-6,-1,1,-2.547107e-6,-4.1966,46.5918)">
-					<rect id="_x30_.1.15.0.0.0.12.0_4_" x="29.6" y="2.2" class="st6" width="9.1" height="0.4"/>
+					<rect id="_x30_.1.15.0.0.0.12.0_4_" x="29.6" y="2.2" class="st2" width="9.1" height="0.4"/>
 				</g>
 			</g>
 		</g>
 		<g id="_x30_.1.15.0.1_4_">
-			<rect id="_x30_.1.15.0.1.2_8_" x="29.9" y="4.6" class="st10" width="3" height="3.7"/>
-			<rect id="_x30_.1.15.0.1.2_3_" x="-6.6" y="4.6" class="st10" width="3" height="3.7"/>
-			<rect id="_x30_.1.15.0.1.5_4_" x="32.6" y="4.6" class="st9" width="0.4" height="3.7"/>
+			<rect id="_x30_.1.15.0.1.2_8_" x="29.9" y="4.6" class="st6" width="3" height="3.7"/>
+			<rect id="_x30_.1.15.0.1.2_3_" x="-6.6" y="4.6" class="st6" width="3" height="3.7"/>
+			<rect id="_x30_.1.15.0.1.5_4_" x="32.6" y="4.6" class="st5" width="0.4" height="3.7"/>
 		</g>
 	</g>
 </g>
