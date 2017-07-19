@@ -1,63 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 56 79" style="enable-background:new 0 0 56 79;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;}
-	.st1{font-family:'ArialMT';}
-	.st2{font-size:3px;}
-	.st3{font-size:2px;}
-	.st4{fill:#7A7A7A;}
-	.st5{fill:#CCCCCC;}
-	.st6{fill:#B0B0B0;}
-	.st7{fill:#8F8F8F;}
-	.st8{fill:#939393;}
-	.st9{fill:#666666;}
-	.st10{fill:none;stroke:#FFFFFF;stroke-width:0.81;stroke-linecap:round;stroke-opacity:0.24;}
-	.st11{fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-opacity:0.15;}
-	.st12{fill:#B3B3B3;}
-	.st13{fill:#4D4D4D;}
+	.st1{fill:#7A7A7A;}
+	.st2{fill:#CCCCCC;}
+	.st3{fill:#B0B0B0;}
+	.st4{fill:#8F8F8F;}
+	.st5{fill:#939393;}
+	.st6{fill:#666666;}
+	.st7{fill:none;stroke:#FFFFFF;stroke-width:0.81;stroke-linecap:round;stroke-opacity:0.24;}
+	.st8{fill:none;stroke:#000000;stroke-width:0.4;stroke-linecap:round;stroke-opacity:0.15;}
+	.st9{fill:#B3B3B3;}
+	.st10{fill:#4D4D4D;}
 </style>
-<rect x="2" y="59.8" class="st0" width="42" height="19.2"/>
-<text transform="matrix(1 0 0 1 2 61.9814)"><tspan x="0" y="0" class="st1 st2">Copyright (C) </tspan><tspan x="0" y="3.6" class="st1 st2">2017 Intel Corporation.</tspan><tspan x="0" y="7.6" class="st1 st3">This document is licensed under the Creative </tspan><tspan x="0" y="10" class="st1 st3">Commons Attribution 3.0 Unported License </tspan><tspan x="0" y="12.4" class="st1 st3">(“CC-BY-3.0”):https://creativecommons.org/ </tspan><tspan x="0" y="14.8" class="st1 st3">licenses/by/3.0/legalcode</tspan></text>
 <g id="usb_1_">
 	<g>
-		<line id="line727_2_" class="st0" x1="46.6" y1="20.1" x2="46.6" y2="34.2"/>
-		<path id="path1321_2_" class="st4" d="M21.6,53.4c-0.1,0.3-0.4,0.6-0.8,0.6h-4.5c-0.4,0-0.7-0.2-0.8-0.6l-2.8-20.7
-			c0-0.3,0.2-0.6,0.6-0.6c0,0,0,0,0,0H14c0.4,0,0.7,0.2,0.8,0.6l2.1,17.4c0.1,0.4,0.4,0.6,0.8,0.6h1.7c0.4,0,0.7-0.2,0.8-0.6
-			l2.1-17.4c0.1-0.4,0.4-0.6,0.8-0.6h0.6c0.4,0,0.7,0.2,0.7,0.6L21.6,53.4z M40.2,53.4c-0.1,0.3-0.4,0.6-0.8,0.6H35
-			c-0.4,0-0.7-0.2-0.8-0.6l-2.8-20.7c0-0.3,0.3-0.6,0.6-0.6h0.7c0.4,0,0.7,0.2,0.8,0.6l2.1,17.4c0.1,0.4,0.4,0.6,0.8,0.6h1.7
-			c0.4,0,0.7-0.2,0.8-0.6L41,32.7c0.1-0.4,0.4-0.6,0.8-0.6h0.6c0.4,0,0.7,0.2,0.7,0.6L40.2,53.4z"/>
-		<rect id="rect1323_2_" x="11.8" y="20.7" class="st5" width="32.2" height="33.4"/>
-		<path id="path1325_2_" class="st6" d="M45.3,51.2h1c-0.1,0.4,0.1,0.7,0.3,1c0.1,0,0.6,0.1,1,0.1v1c-0.5,0-1.1-0.1-1.6-0.3
-			c-0.5-0.4-0.8-1-0.7-1.7L45.3,51.2z"/>
-		<path id="path1327_2_" class="st7" d="M46.5,52.1c-0.1-0.3-0.1-0.6-0.1-0.9h-1l0,0c0,0.6,0.1,1.1,0.4,1.6c0.2,0.2,0.5,0.4,0.8,0.4
-			C46.5,52.9,46.4,52.5,46.5,52.1z"/>
-		<path id="path1329_2_" class="st6" d="M10.6,51.2h-1c0.1,0.4,0,0.7-0.3,1c-0.1,0-0.6,0.1-1,0.1v1c0.5,0,1.1-0.1,1.6-0.3
-			c0.5-0.4,0.8-1,0.7-1.7L10.6,51.2z"/>
-		<path id="path1331_2_" class="st7" d="M9.4,53.2c0.3,0,0.7-0.2,0.8-0.5c0.3-0.5,0.4-1,0.4-1.6l0,0h-1c0,0.4-0.1,0.7-0.1,0.9
-			C9.6,52.4,9.5,52.8,9.4,53.2z"/>
-		<polygon id="polygon1335_2_" class="st0" points="17,46.3 20.1,46.3 20.3,44.7 17,44.7 		"/>
-		<polygon id="polygon1337_2_" class="st8" points="20.3,44.7 20.1,46.3 17,46.3 17,44.7 		"/>
-		<polygon id="polygon1339_2_" class="st9" points="20.3,44.7 20.4,44 16.8,44 17,44.7 		"/>
-		<polygon id="polygon1341_2_" class="st0" points="35.8,46.3 38.9,46.3 39.1,44.7 35.6,44.7 		"/>
-		<polygon id="polygon1343_2_" class="st8" points="39.1,44.7 38.9,46.3 35.8,46.3 35.6,44.7 		"/>
-		<polygon id="polygon1345_2_" class="st9" points="39.1,44.7 39.1,44 35.5,44 35.6,44.7 		"/>
-		<line id="line1347_2_" class="st10" x1="9.8" y1="5.8" x2="9.8" y2="50.9"/>
-		<line id="line1349_2_" class="st10" x1="46.2" y1="5.8" x2="46.2" y2="51.1"/>
-		<line id="line1351_2_" class="st11" x1="44.9" y1="52.2" x2="11" y2="52.2"/>
-		<rect id="rect1353_2_" x="10.8" y="52.7" class="st6" width="34.2" height="0.7"/>
+		<line id="line727_2_" class="st0" x1="46.6" y1="32.3" x2="46.6" y2="46.4"/>
+		<path id="path1321_2_" class="st1" d="M21.6,65.6c-0.1,0.3-0.4,0.6-0.8,0.6h-4.5c-0.4,0-0.7-0.2-0.8-0.6l-2.8-20.7
+			c0-0.3,0.2-0.6,0.6-0.6l0,0H14c0.4,0,0.7,0.2,0.8,0.6l2.1,17.4c0.1,0.4,0.4,0.6,0.8,0.6h1.7c0.4,0,0.7-0.2,0.8-0.6l2.1-17.4
+			c0.1-0.4,0.4-0.6,0.8-0.6h0.6c0.4,0,0.7,0.2,0.7,0.6L21.6,65.6z M40.2,65.6c-0.1,0.3-0.4,0.6-0.8,0.6H35c-0.4,0-0.7-0.2-0.8-0.6
+			l-2.8-20.7c0-0.3,0.3-0.6,0.6-0.6h0.7c0.4,0,0.7,0.2,0.8,0.6l2.1,17.4c0.1,0.4,0.4,0.6,0.8,0.6h1.7c0.4,0,0.7-0.2,0.8-0.6L41,44.9
+			c0.1-0.4,0.4-0.6,0.8-0.6h0.6c0.4,0,0.7,0.2,0.7,0.6L40.2,65.6z"/>
+		<rect id="rect1323_2_" x="11.8" y="32.9" class="st2" width="32.2" height="33.4"/>
+		<path id="path1325_2_" class="st3" d="M45.3,63.4h1c-0.1,0.4,0.1,0.7,0.3,1c0.1,0,0.6,0.1,1,0.1v1c-0.5,0-1.1-0.1-1.6-0.3
+			C45.5,64.8,45.2,64.2,45.3,63.4L45.3,63.4z"/>
+		<path id="path1327_2_" class="st4" d="M46.5,64.3c-0.1-0.3-0.1-0.6-0.1-0.9h-1l0,0c0,0.6,0.1,1.1,0.4,1.6c0.2,0.2,0.5,0.4,0.8,0.4
+			C46.5,65.1,46.4,64.7,46.5,64.3z"/>
+		<path id="path1329_2_" class="st3" d="M10.6,63.4h-1c0.1,0.4,0,0.7-0.3,1c-0.1,0-0.6,0.1-1,0.1v1c0.5,0,1.1-0.1,1.6-0.3
+			C10.4,64.8,10.7,64.2,10.6,63.4L10.6,63.4z"/>
+		<path id="path1331_2_" class="st4" d="M9.4,65.4c0.3,0,0.7-0.2,0.8-0.5c0.3-0.5,0.4-1,0.4-1.6l0,0h-1c0,0.4-0.1,0.7-0.1,0.9
+			C9.6,64.6,9.5,65,9.4,65.4z"/>
+		<polygon id="polygon1335_2_" class="st0" points="17,58.5 20.1,58.5 20.3,56.9 17,56.9 		"/>
+		<polygon id="polygon1337_2_" class="st5" points="20.3,56.9 20.1,58.5 17,58.5 17,56.9 		"/>
+		<polygon id="polygon1339_2_" class="st6" points="20.3,56.9 20.4,56.2 16.8,56.2 17,56.9 		"/>
+		<polygon id="polygon1341_2_" class="st0" points="35.8,58.5 38.9,58.5 39.1,56.9 35.6,56.9 		"/>
+		<polygon id="polygon1343_2_" class="st5" points="39.1,56.9 38.9,58.5 35.8,58.5 35.6,56.9 		"/>
+		<polygon id="polygon1345_2_" class="st6" points="39.1,56.9 39.1,56.2 35.5,56.2 35.6,56.9 		"/>
+		<line id="line1347_2_" class="st7" x1="9.8" y1="18" x2="9.8" y2="63.1"/>
+		<line id="line1349_2_" class="st7" x1="46.2" y1="18" x2="46.2" y2="63.3"/>
+		<line id="line1351_2_" class="st8" x1="44.9" y1="64.4" x2="11" y2="64.4"/>
+		<rect id="rect1353_2_" x="10.8" y="64.9" class="st3" width="34.2" height="0.7"/>
 		<g id="usb_2_">
-			<path id="path1333_2_" class="st12" d="M9.2,4.7v46.9h1.6v1.7h34.2v-1.7h1.6V4.7H9.2z M21.6,49.1c-0.1,0.3-0.4,0.6-0.8,0.6h-4.5
-				c-0.4,0-0.7-0.2-0.8-0.6l-2.8-20.7c0-0.3,0.2-0.6,0.6-0.6c0,0,0,0,0,0H14c0.4,0,0.7,0.2,0.8,0.6l2.1,17.4
-				c0.1,0.4,0.4,0.6,0.8,0.6h1.7c0.4,0,0.7-0.2,0.8-0.6l2.1-17.4c0.1-0.4,0.4-0.6,0.8-0.6h0.6c0.4,0,0.7,0.2,0.7,0.6L21.6,49.1z
-				 M40.2,49.1c-0.1,0.3-0.4,0.6-0.8,0.6H35c-0.4,0-0.7-0.2-0.8-0.6l-2.8-20.7c0-0.3,0.3-0.6,0.6-0.6h0.7c0.4,0,0.7,0.2,0.8,0.6
-				l2.1,17.4c0.1,0.4,0.4,0.6,0.8,0.6h1.7c0.4,0,0.7-0.2,0.8-0.6L41,28.4c0.1-0.4,0.4-0.6,0.8-0.6h0.6c0.4,0,0.7,0.2,0.7,0.6
-				L40.2,49.1z"/>
-			<rect id="rect1355_2_" x="4.6" y="23.9" class="st13" width="4.6" height="6.5"/>
-			<rect id="rect1357_2_" x="46.7" y="23.9" class="st13" width="4.7" height="6.5"/>
-			<rect id="rect1359_2_" x="4.6" y="7.9" class="st13" width="4.6" height="6.5"/>
-			<rect id="rect1361_2_" x="46.7" y="7.9" class="st13" width="4.7" height="6.5"/>
+			<path id="path1333_2_" class="st9" d="M9.2,16.9v46.9h1.6v1.7H45v-1.7h1.6V16.9H9.2z M21.6,61.3c-0.1,0.3-0.4,0.6-0.8,0.6h-4.5
+				c-0.4,0-0.7-0.2-0.8-0.6l-2.8-20.7c0-0.3,0.2-0.6,0.6-0.6l0,0H14c0.4,0,0.7,0.2,0.8,0.6L16.9,58c0.1,0.4,0.4,0.6,0.8,0.6h1.7
+				c0.4,0,0.7-0.2,0.8-0.6l2.1-17.4c0.1-0.4,0.4-0.6,0.8-0.6h0.6c0.4,0,0.7,0.2,0.7,0.6L21.6,61.3z M40.2,61.3
+				c-0.1,0.3-0.4,0.6-0.8,0.6H35c-0.4,0-0.7-0.2-0.8-0.6l-2.8-20.7c0-0.3,0.3-0.6,0.6-0.6h0.7c0.4,0,0.7,0.2,0.8,0.6L35.6,58
+				c0.1,0.4,0.4,0.6,0.8,0.6h1.7c0.4,0,0.7-0.2,0.8-0.6L41,40.6c0.1-0.4,0.4-0.6,0.8-0.6h0.6c0.4,0,0.7,0.2,0.7,0.6L40.2,61.3z"/>
+			<rect id="rect1355_2_" x="4.6" y="36.1" class="st10" width="4.6" height="6.5"/>
+			<rect id="rect1357_2_" x="46.7" y="36.1" class="st10" width="4.7" height="6.5"/>
+			<rect id="rect1359_2_" x="4.6" y="20.1" class="st10" width="4.6" height="6.5"/>
+			<rect id="rect1361_2_" x="46.7" y="20.1" class="st10" width="4.7" height="6.5"/>
 		</g>
 	</g>
 </g>

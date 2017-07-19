@@ -1,73 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 82 49.5" style="enable-background:new 0 0 82 49.5;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;}
-	.st1{font-family:'ArialMT';}
-	.st2{font-size:3px;}
-	.st3{font-size:2px;}
-	.st4{fill:#404040;}
-	.st5{fill:#2A2A29;}
-	.st6{fill:#474747;}
-	.st7{fill:#595959;}
-	.st8{fill:#373737;}
+	.st0{fill:#404040;}
+	.st1{fill:#2A2A29;}
+	.st2{fill:#474747;}
+	.st3{fill:#595959;}
+	.st4{fill:#373737;}
 </style>
-<rect x="2" y="30.3" class="st0" width="42" height="19.2"/>
-<text transform="matrix(1 0 0 1 2 32.469)"><tspan x="0" y="0" class="st1 st2">Copyright (C) </tspan><tspan x="0" y="3.6" class="st1 st2">2017 Intel Corporation.</tspan><tspan x="0" y="7.6" class="st1 st3">This document is licensed under the Creative </tspan><tspan x="0" y="10" class="st1 st3">Commons Attribution 3.0 Unported License </tspan><tspan x="0" y="12.4" class="st1 st3">(“CC-BY-3.0”):https://creativecommons.org/li</tspan><tspan x="39.5" y="12.4" class="st1 st3">-</tspan><tspan x="0" y="14.8" class="st1 st3">censes/by/3.0/legalcode</tspan></text>
 <g id="_x30_.1.17" transform="matrix(1, 0, 0, 1, 67.6403, 3.60123)">
 	<g id="_x31_x10">
-		<rect id="_x30_.1.17.0.0" x="-62.5" y="9.6" class="st4" width="72" height="7.2"/>
-		<rect id="_x30_.1.17.0.1" x="-60.3" y="11.8" width="2.8" height="2.8"/>
-		<polygon id="_x30_.1.17.0.2" class="st5" points="-61.4,10.8 -60.3,11.8 -57.6,11.8 -56.5,10.8 		"/>
-		<polygon id="_x30_.1.17.0.3" class="st6" points="-56.5,10.8 -57.6,11.8 -57.6,14.6 -56.5,15.6 		"/>
-		<polygon id="_x30_.1.17.0.4" class="st7" points="-56.5,15.6 -57.6,14.6 -60.3,14.6 -61.4,15.6 		"/>
-		<polygon id="_x30_.1.17.0.5" class="st8" points="-61.4,15.6 -60.3,14.6 -60.3,11.8 -61.4,10.8 		"/>
-		<rect id="_x30_.1.17.0.6" x="-53.1" y="11.8" width="2.8" height="2.8"/>
-		<polygon id="_x30_.1.17.0.7" class="st5" points="-54.2,10.8 -53.1,11.8 -50.4,11.8 -49.3,10.8 		"/>
-		<polygon id="_x30_.1.17.0.8" class="st6" points="-49.3,10.8 -50.4,11.8 -50.4,14.6 -49.3,15.6 		"/>
-		<polygon id="_x30_.1.17.0.9" class="st7" points="-49.3,15.6 -50.4,14.6 -53.1,14.6 -54.2,15.6 		"/>
-		<polygon id="_x30_.1.17.0.10" class="st8" points="-54.2,15.6 -53.1,14.6 -53.1,11.8 -54.2,10.8 		"/>
-		<rect id="_x30_.1.17.0.11" x="-45.9" y="11.8" width="2.8" height="2.8"/>
-		<polygon id="_x30_.1.17.0.12" class="st5" points="-47,10.8 -45.9,11.8 -43.2,11.8 -42.1,10.8 		"/>
-		<polygon id="_x30_.1.17.0.13" class="st6" points="-42.1,10.8 -43.2,11.8 -43.2,14.6 -42.1,15.6 		"/>
-		<polygon id="_x30_.1.17.0.14" class="st7" points="-42.1,15.6 -43.2,14.6 -45.9,14.6 -47,15.6 		"/>
-		<polygon id="_x30_.1.17.0.15" class="st8" points="-47,15.6 -45.9,14.6 -45.9,11.8 -47,10.8 		"/>
-		<rect id="_x30_.1.17.0.16" x="-38.7" y="11.8" width="2.8" height="2.8"/>
-		<polygon id="_x30_.1.17.0.17" class="st5" points="-39.8,10.8 -38.7,11.8 -36,11.8 -34.9,10.8 		"/>
-		<polygon id="_x30_.1.17.0.18" class="st6" points="-34.9,10.8 -36,11.8 -36,14.6 -34.9,15.6 		"/>
-		<polygon id="_x30_.1.17.0.19" class="st7" points="-34.9,15.6 -36,14.6 -38.7,14.6 -39.8,15.6 		"/>
-		<polygon id="_x30_.1.17.0.20" class="st8" points="-39.8,15.6 -38.7,14.6 -38.7,11.8 -39.8,10.8 		"/>
-		<rect id="_x30_.1.17.0.21" x="-31.5" y="11.8" width="2.8" height="2.8"/>
-		<polygon id="_x30_.1.17.0.22" class="st5" points="-32.6,10.8 -31.5,11.8 -28.8,11.8 -27.7,10.8 		"/>
-		<polygon id="_x30_.1.17.0.23" class="st6" points="-27.7,10.8 -28.8,11.8 -28.8,14.6 -27.7,15.6 		"/>
-		<polygon id="_x30_.1.17.0.24" class="st7" points="-27.7,15.6 -28.8,14.6 -31.5,14.6 -32.6,15.6 		"/>
-		<polygon id="_x30_.1.17.0.25" class="st8" points="-32.6,15.6 -31.5,14.6 -31.5,11.8 -32.6,10.8 		"/>
-		<rect id="_x30_.1.17.0.26" x="-24.3" y="11.8" width="2.8" height="2.8"/>
-		<polygon id="_x30_.1.17.0.27" class="st5" points="-25.4,10.8 -24.3,11.8 -21.6,11.8 -20.5,10.8 		"/>
-		<polygon id="_x30_.1.17.0.28" class="st6" points="-20.5,10.8 -21.6,11.8 -21.6,14.6 -20.5,15.6 		"/>
-		<polygon id="_x30_.1.17.0.29" class="st7" points="-20.5,15.6 -21.6,14.6 -24.3,14.6 -25.4,15.6 		"/>
-		<polygon id="_x30_.1.17.0.30" class="st8" points="-25.4,15.6 -24.3,14.6 -24.3,11.8 -25.4,10.8 		"/>
-		<rect id="_x30_.1.17.0.31" x="-17.1" y="11.8" width="2.8" height="2.8"/>
-		<polygon id="_x30_.1.17.0.32" class="st5" points="-18.2,10.8 -17.1,11.8 -14.4,11.8 -13.3,10.8 		"/>
-		<polygon id="_x30_.1.17.0.33" class="st6" points="-13.3,10.8 -14.4,11.8 -14.4,14.6 -13.3,15.6 		"/>
-		<polygon id="_x30_.1.17.0.34" class="st7" points="-13.3,15.6 -14.4,14.6 -17.1,14.6 -18.2,15.6 		"/>
-		<polygon id="_x30_.1.17.0.35" class="st8" points="-18.2,15.6 -17.1,14.6 -17.1,11.8 -18.2,10.8 		"/>
-		<rect id="_x30_.1.17.0.36" x="-9.9" y="11.8" width="2.8" height="2.8"/>
-		<polygon id="_x30_.1.17.0.37" class="st5" points="-11,10.8 -9.9,11.8 -7.2,11.8 -6.1,10.8 		"/>
-		<polygon id="_x30_.1.17.0.38" class="st6" points="-6.1,10.8 -7.2,11.8 -7.2,14.6 -6.1,15.6 		"/>
-		<polygon id="_x30_.1.17.0.39" class="st7" points="-6.1,15.6 -7.2,14.6 -9.9,14.6 -11,15.6 		"/>
-		<polygon id="_x30_.1.17.0.40" class="st8" points="-11,15.6 -9.9,14.6 -9.9,11.8 -11,10.8 		"/>
-		<rect id="_x30_.1.17.0.41" x="-2.7" y="11.8" width="2.8" height="2.8"/>
-		<polygon id="_x30_.1.17.0.42" class="st5" points="-3.8,10.8 -2.7,11.8 0,11.8 1.1,10.8 		"/>
-		<polygon id="_x30_.1.17.0.43" class="st6" points="1.1,10.8 0,11.8 0,14.6 1.1,15.6 		"/>
-		<polygon id="_x30_.1.17.0.44" class="st7" points="1.1,15.6 0,14.6 -2.7,14.6 -3.8,15.6 		"/>
-		<polygon id="_x30_.1.17.0.45" class="st8" points="-3.8,15.6 -2.7,14.6 -2.7,11.8 -3.8,10.8 		"/>
-		<rect id="_x30_.1.17.0.46" x="4.5" y="11.8" width="2.8" height="2.8"/>
-		<polygon id="_x30_.1.17.0.47" class="st5" points="3.4,10.8 4.5,11.8 7.2,11.8 8.3,10.8 		"/>
-		<polygon id="_x30_.1.17.0.48" class="st6" points="8.3,10.8 7.2,11.8 7.2,14.6 8.3,15.6 		"/>
-		<polygon id="_x30_.1.17.0.49" class="st7" points="8.3,15.6 7.2,14.6 4.5,14.6 3.4,15.6 		"/>
-		<polygon id="_x30_.1.17.0.50" class="st8" points="3.4,15.6 4.5,14.6 4.5,11.8 3.4,10.8 		"/>
+		<rect id="_x30_.1.17.0.0" x="-62.5" y="17.7" class="st0" width="72" height="7.2"/>
+		<rect id="_x30_.1.17.0.1" x="-60.3" y="19.9" width="2.8" height="2.8"/>
+		<polygon id="_x30_.1.17.0.2" class="st1" points="-61.4,18.9 -60.3,19.9 -57.6,19.9 -56.5,18.9 		"/>
+		<polygon id="_x30_.1.17.0.3" class="st2" points="-56.5,18.9 -57.6,19.9 -57.6,22.7 -56.5,23.7 		"/>
+		<polygon id="_x30_.1.17.0.4" class="st3" points="-56.5,23.7 -57.6,22.7 -60.3,22.7 -61.4,23.7 		"/>
+		<polygon id="_x30_.1.17.0.5" class="st4" points="-61.4,23.7 -60.3,22.7 -60.3,19.9 -61.4,18.9 		"/>
+		<rect id="_x30_.1.17.0.6" x="-53.1" y="19.9" width="2.8" height="2.8"/>
+		<polygon id="_x30_.1.17.0.7" class="st1" points="-54.2,18.9 -53.1,19.9 -50.4,19.9 -49.3,18.9 		"/>
+		<polygon id="_x30_.1.17.0.8" class="st2" points="-49.3,18.9 -50.4,19.9 -50.4,22.7 -49.3,23.7 		"/>
+		<polygon id="_x30_.1.17.0.9" class="st3" points="-49.3,23.7 -50.4,22.7 -53.1,22.7 -54.2,23.7 		"/>
+		<polygon id="_x30_.1.17.0.10" class="st4" points="-54.2,23.7 -53.1,22.7 -53.1,19.9 -54.2,18.9 		"/>
+		<rect id="_x30_.1.17.0.11" x="-45.9" y="19.9" width="2.8" height="2.8"/>
+		<polygon id="_x30_.1.17.0.12" class="st1" points="-47,18.9 -45.9,19.9 -43.2,19.9 -42.1,18.9 		"/>
+		<polygon id="_x30_.1.17.0.13" class="st2" points="-42.1,18.9 -43.2,19.9 -43.2,22.7 -42.1,23.7 		"/>
+		<polygon id="_x30_.1.17.0.14" class="st3" points="-42.1,23.7 -43.2,22.7 -45.9,22.7 -47,23.7 		"/>
+		<polygon id="_x30_.1.17.0.15" class="st4" points="-47,23.7 -45.9,22.7 -45.9,19.9 -47,18.9 		"/>
+		<rect id="_x30_.1.17.0.16" x="-38.7" y="19.9" width="2.8" height="2.8"/>
+		<polygon id="_x30_.1.17.0.17" class="st1" points="-39.8,18.9 -38.7,19.9 -36,19.9 -34.9,18.9 		"/>
+		<polygon id="_x30_.1.17.0.18" class="st2" points="-34.9,18.9 -36,19.9 -36,22.7 -34.9,23.7 		"/>
+		<polygon id="_x30_.1.17.0.19" class="st3" points="-34.9,23.7 -36,22.7 -38.7,22.7 -39.8,23.7 		"/>
+		<polygon id="_x30_.1.17.0.20" class="st4" points="-39.8,23.7 -38.7,22.7 -38.7,19.9 -39.8,18.9 		"/>
+		<rect id="_x30_.1.17.0.21" x="-31.5" y="19.9" width="2.8" height="2.8"/>
+		<polygon id="_x30_.1.17.0.22" class="st1" points="-32.6,18.9 -31.5,19.9 -28.8,19.9 -27.7,18.9 		"/>
+		<polygon id="_x30_.1.17.0.23" class="st2" points="-27.7,18.9 -28.8,19.9 -28.8,22.7 -27.7,23.7 		"/>
+		<polygon id="_x30_.1.17.0.24" class="st3" points="-27.7,23.7 -28.8,22.7 -31.5,22.7 -32.6,23.7 		"/>
+		<polygon id="_x30_.1.17.0.25" class="st4" points="-32.6,23.7 -31.5,22.7 -31.5,19.9 -32.6,18.9 		"/>
+		<rect id="_x30_.1.17.0.26" x="-24.3" y="19.9" width="2.8" height="2.8"/>
+		<polygon id="_x30_.1.17.0.27" class="st1" points="-25.4,18.9 -24.3,19.9 -21.6,19.9 -20.5,18.9 		"/>
+		<polygon id="_x30_.1.17.0.28" class="st2" points="-20.5,18.9 -21.6,19.9 -21.6,22.7 -20.5,23.7 		"/>
+		<polygon id="_x30_.1.17.0.29" class="st3" points="-20.5,23.7 -21.6,22.7 -24.3,22.7 -25.4,23.7 		"/>
+		<polygon id="_x30_.1.17.0.30" class="st4" points="-25.4,23.7 -24.3,22.7 -24.3,19.9 -25.4,18.9 		"/>
+		<rect id="_x30_.1.17.0.31" x="-17.1" y="19.9" width="2.8" height="2.8"/>
+		<polygon id="_x30_.1.17.0.32" class="st1" points="-18.2,18.9 -17.1,19.9 -14.4,19.9 -13.3,18.9 		"/>
+		<polygon id="_x30_.1.17.0.33" class="st2" points="-13.3,18.9 -14.4,19.9 -14.4,22.7 -13.3,23.7 		"/>
+		<polygon id="_x30_.1.17.0.34" class="st3" points="-13.3,23.7 -14.4,22.7 -17.1,22.7 -18.2,23.7 		"/>
+		<polygon id="_x30_.1.17.0.35" class="st4" points="-18.2,23.7 -17.1,22.7 -17.1,19.9 -18.2,18.9 		"/>
+		<rect id="_x30_.1.17.0.36" x="-9.9" y="19.9" width="2.8" height="2.8"/>
+		<polygon id="_x30_.1.17.0.37" class="st1" points="-11,18.9 -9.9,19.9 -7.2,19.9 -6.1,18.9 		"/>
+		<polygon id="_x30_.1.17.0.38" class="st2" points="-6.1,18.9 -7.2,19.9 -7.2,22.7 -6.1,23.7 		"/>
+		<polygon id="_x30_.1.17.0.39" class="st3" points="-6.1,23.7 -7.2,22.7 -9.9,22.7 -11,23.7 		"/>
+		<polygon id="_x30_.1.17.0.40" class="st4" points="-11,23.7 -9.9,22.7 -9.9,19.9 -11,18.9 		"/>
+		<rect id="_x30_.1.17.0.41" x="-2.7" y="19.9" width="2.8" height="2.8"/>
+		<polygon id="_x30_.1.17.0.42" class="st1" points="-3.8,18.9 -2.7,19.9 0,19.9 1.1,18.9 		"/>
+		<polygon id="_x30_.1.17.0.43" class="st2" points="1.1,18.9 0,19.9 0,22.7 1.1,23.7 		"/>
+		<polygon id="_x30_.1.17.0.44" class="st3" points="1.1,23.7 0,22.7 -2.7,22.7 -3.8,23.7 		"/>
+		<polygon id="_x30_.1.17.0.45" class="st4" points="-3.8,23.7 -2.7,22.7 -2.7,19.9 -3.8,18.9 		"/>
+		<rect id="_x30_.1.17.0.46" x="4.5" y="19.9" width="2.8" height="2.8"/>
+		<polygon id="_x30_.1.17.0.47" class="st1" points="3.4,18.9 4.5,19.9 7.2,19.9 8.3,18.9 		"/>
+		<polygon id="_x30_.1.17.0.48" class="st2" points="8.3,18.9 7.2,19.9 7.2,22.7 8.3,23.7 		"/>
+		<polygon id="_x30_.1.17.0.49" class="st3" points="8.3,23.7 7.2,22.7 4.5,22.7 3.4,23.7 		"/>
+		<polygon id="_x30_.1.17.0.50" class="st4" points="3.4,23.7 4.5,22.7 4.5,19.9 3.4,18.9 		"/>
 	</g>
 </g>
 </svg>

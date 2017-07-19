@@ -1,69 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 65 61" style="enable-background:new 0 0 65 61;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;}
-	.st1{font-family:'ArialMT';}
-	.st2{font-size:3px;}
-	.st3{font-size:2px;}
-	.st4{fill:#B3B3B3;}
-	.st5{fill:#ED1C24;}
-	.st6{fill:#FDBE10;}
-	.st7{fill:#E6E6E6;}
+	.st0{fill:#B3B3B3;}
+	.st1{fill:#ED1C24;}
+	.st2{fill:#FDBE10;}
+	.st3{fill:#E6E6E6;}
 </style>
-<rect x="2" y="41.8" class="st0" width="60" height="18.2"/>
-<text transform="matrix(1 0 0 1 2 43.9814)"><tspan x="0" y="0" class="st1 st2">Copyright (C) </tspan><tspan x="0" y="3.6" class="st1 st2">2017 Intel Corporation.</tspan><tspan x="0" y="7.6" class="st1 st3">This document is licensed under the Creative Commons Attribution </tspan><tspan x="0" y="10" class="st1 st3">3.0 Unported License (“CC-BY-3.0”):https://creativecommons.org/ </tspan><tspan x="0" y="12.4" class="st1 st3">licenses/by/3.0/legalcode</tspan></text>
 <g id="BV_BLE">
-	<rect id="rect5196" x="21.6" y="2.6" class="st4" width="1.5" height="5.2"/>
-	<rect id="rect5198" x="56.7" y="32" class="st4" width="5.2" height="1.5"/>
-	<rect id="rect5200" x="19.4" y="31.7" class="st4" width="1.5" height="5.2"/>
-	<rect id="rect5202" x="21.6" y="31.7" class="st4" width="1.5" height="5.2"/>
-	<rect id="rect5204" x="56.7" y="6.2" class="st4" width="5.2" height="1.5"/>
-	<rect id="rect5206" x="19.4" y="2.6" class="st4" width="1.5" height="5.2"/>
-	<rect id="rect5208" x="56.7" y="27.6" class="st4" width="5.2" height="1.5"/>
-	<rect id="rect5210" x="38.8" y="31.7" class="st4" width="1.5" height="5.2"/>
-	<rect id="rect5212" x="41" y="31.7" class="st4" width="1.5" height="5.2"/>
-	<rect id="rect5214" x="36.7" y="31.7" class="st4" width="1.5" height="5.2"/>
-	<rect id="rect5216" x="56.7" y="23.3" class="st4" width="5.2" height="1.5"/>
-	<rect id="rect5218" x="56.7" y="21.2" class="st4" width="5.2" height="1.5"/>
-	<rect id="rect5220" x="56.7" y="19.1" class="st4" width="5.2" height="1.5"/>
-	<rect id="rect5222" x="56.7" y="16.9" class="st4" width="5.2" height="1.5"/>
-	<rect id="rect5224" x="56.7" y="14.7" class="st4" width="5.2" height="1.5"/>
-	<rect id="rect5226" x="56.7" y="12.6" class="st4" width="5.2" height="1.5"/>
-	<rect id="rect5228" x="56.7" y="10.4" class="st4" width="5.2" height="1.5"/>
-	<rect id="rect5230" x="45.2" y="2.6" class="st4" width="1.5" height="5.2"/>
-	<rect id="rect5232" x="43.1" y="2.6" class="st4" width="1.5" height="5.2"/>
-	<rect id="rect5234" x="41" y="2.6" class="st4" width="1.5" height="5.2"/>
-	<rect id="rect5236" x="38.8" y="2.6" class="st4" width="1.5" height="5.2"/>
-	<rect id="rect5238" x="36.7" y="2.6" class="st4" width="1.5" height="5.2"/>
-	<rect id="rect5240" x="30.3" y="2.6" class="st4" width="1.5" height="5.2"/>
-	<rect id="rect5242" x="28.1" y="2.6" class="st4" width="1.5" height="5.2"/>
-	<rect id="rect5244" x="25.9" y="2.6" class="st4" width="1.5" height="5.2"/>
-	<rect id="rect5246" x="23.8" y="2.6" class="st4" width="1.5" height="5.2"/>
-	<rect id="rect5248" x="47.4" y="31.7" class="st4" width="1.5" height="5.2"/>
-	<rect id="rect5250" x="49.6" y="31.7" class="st4" width="1.5" height="5.2"/>
-	<rect id="rect5252" x="56.7" y="29.8" class="st4" width="5.2" height="1.5"/>
-	<rect id="rect5254" x="34.5" y="31.7" class="st4" width="1.5" height="5.2"/>
-	<rect id="rect5256" x="34.5" y="2.6" class="st4" width="1.5" height="5.2"/>
-	<rect id="rect5258" x="32.3" y="2.6" class="st4" width="1.5" height="5.2"/>
-	<rect id="rect5260" x="47.4" y="2.6" class="st4" width="1.5" height="5.2"/>
-	<rect id="rect5262" x="51.7" y="2.6" class="st4" width="1.5" height="5.2"/>
-	<rect id="rect5264" x="49.6" y="2.6" class="st4" width="1.5" height="5.2"/>
-	<rect id="rect5266" x="53.8" y="2.6" class="st4" width="1.5" height="5.2"/>
-	<rect id="rect5268" x="56.7" y="25.5" class="st4" width="5.2" height="1.5"/>
-	<rect id="rect5270" x="56.7" y="8.3" class="st4" width="5.2" height="1.5"/>
-	<rect id="rect5272" x="51.7" y="31.7" class="st4" width="1.5" height="5.2"/>
-	<rect id="rect5274" x="53.8" y="31.7" class="st4" width="1.5" height="5.2"/>
-	<rect id="rect5276" x="43.1" y="31.7" class="st4" width="1.5" height="5.2"/>
-	<rect id="rect5278" x="45.2" y="31.7" class="st4" width="1.5" height="5.2"/>
-	<rect id="rect5280" x="3.1" y="4.3" class="st5" width="57" height="30.9"/>
+	<rect id="rect5196" x="21.6" y="12.3" class="st0" width="1.5" height="5.2"/>
+	<rect id="rect5198" x="56.7" y="41.7" class="st0" width="5.2" height="1.5"/>
+	<rect id="rect5200" x="19.4" y="41.4" class="st0" width="1.5" height="5.2"/>
+	<rect id="rect5202" x="21.6" y="41.4" class="st0" width="1.5" height="5.2"/>
+	<rect id="rect5204" x="56.7" y="15.9" class="st0" width="5.2" height="1.5"/>
+	<rect id="rect5206" x="19.4" y="12.3" class="st0" width="1.5" height="5.2"/>
+	<rect id="rect5208" x="56.7" y="37.3" class="st0" width="5.2" height="1.5"/>
+	<rect id="rect5210" x="38.8" y="41.4" class="st0" width="1.5" height="5.2"/>
+	<rect id="rect5212" x="41" y="41.4" class="st0" width="1.5" height="5.2"/>
+	<rect id="rect5214" x="36.7" y="41.4" class="st0" width="1.5" height="5.2"/>
+	<rect id="rect5216" x="56.7" y="33" class="st0" width="5.2" height="1.5"/>
+	<rect id="rect5218" x="56.7" y="30.9" class="st0" width="5.2" height="1.5"/>
+	<rect id="rect5220" x="56.7" y="28.8" class="st0" width="5.2" height="1.5"/>
+	<rect id="rect5222" x="56.7" y="26.6" class="st0" width="5.2" height="1.5"/>
+	<rect id="rect5224" x="56.7" y="24.4" class="st0" width="5.2" height="1.5"/>
+	<rect id="rect5226" x="56.7" y="22.3" class="st0" width="5.2" height="1.5"/>
+	<rect id="rect5228" x="56.7" y="20.1" class="st0" width="5.2" height="1.5"/>
+	<rect id="rect5230" x="45.2" y="12.3" class="st0" width="1.5" height="5.2"/>
+	<rect id="rect5232" x="43.1" y="12.3" class="st0" width="1.5" height="5.2"/>
+	<rect id="rect5234" x="41" y="12.3" class="st0" width="1.5" height="5.2"/>
+	<rect id="rect5236" x="38.8" y="12.3" class="st0" width="1.5" height="5.2"/>
+	<rect id="rect5238" x="36.7" y="12.3" class="st0" width="1.5" height="5.2"/>
+	<rect id="rect5240" x="30.3" y="12.3" class="st0" width="1.5" height="5.2"/>
+	<rect id="rect5242" x="28.1" y="12.3" class="st0" width="1.5" height="5.2"/>
+	<rect id="rect5244" x="25.9" y="12.3" class="st0" width="1.5" height="5.2"/>
+	<rect id="rect5246" x="23.8" y="12.3" class="st0" width="1.5" height="5.2"/>
+	<rect id="rect5248" x="47.4" y="41.4" class="st0" width="1.5" height="5.2"/>
+	<rect id="rect5250" x="49.6" y="41.4" class="st0" width="1.5" height="5.2"/>
+	<rect id="rect5252" x="56.7" y="39.5" class="st0" width="5.2" height="1.5"/>
+	<rect id="rect5254" x="34.5" y="41.4" class="st0" width="1.5" height="5.2"/>
+	<rect id="rect5256" x="34.5" y="12.3" class="st0" width="1.5" height="5.2"/>
+	<rect id="rect5258" x="32.3" y="12.3" class="st0" width="1.5" height="5.2"/>
+	<rect id="rect5260" x="47.4" y="12.3" class="st0" width="1.5" height="5.2"/>
+	<rect id="rect5262" x="51.7" y="12.3" class="st0" width="1.5" height="5.2"/>
+	<rect id="rect5264" x="49.6" y="12.3" class="st0" width="1.5" height="5.2"/>
+	<rect id="rect5266" x="53.8" y="12.3" class="st0" width="1.5" height="5.2"/>
+	<rect id="rect5268" x="56.7" y="35.2" class="st0" width="5.2" height="1.5"/>
+	<rect id="rect5270" x="56.7" y="18" class="st0" width="5.2" height="1.5"/>
+	<rect id="rect5272" x="51.7" y="41.4" class="st0" width="1.5" height="5.2"/>
+	<rect id="rect5274" x="53.8" y="41.4" class="st0" width="1.5" height="5.2"/>
+	<rect id="rect5276" x="43.1" y="41.4" class="st0" width="1.5" height="5.2"/>
+	<rect id="rect5278" x="45.2" y="41.4" class="st0" width="1.5" height="5.2"/>
+	<rect id="rect5280" x="3.1" y="14" class="st1" width="57" height="30.9"/>
 	<g id="g5282">
-		<polygon id="polygon5284" class="st6" points="4.2,28.8 11.6,28.8 11.6,27.3 4.2,27.3 4.2,22.9 11.6,22.9 11.6,21.3 4.2,21.3 
-			4.2,16.8 11.6,16.8 11.6,15.3 4.2,15.3 4.2,6.3 13.2,6.3 13.2,9.2 16.3,12.5 15.3,13.4 11.6,9.9 11.6,7.8 5.6,7.8 5.6,13.9 
-			13.2,13.9 13.2,18.3 5.6,18.3 5.6,19.8 13.2,19.8 13.2,24.4 5.6,24.4 5.6,25.9 13.2,25.9 13.2,30.3 5.6,30.3 5.6,31.8 13.2,31.8 
-			13.2,33.4 4.2,33.4 		"/>
+		<polygon id="polygon5284" class="st2" points="4.2,38.5 11.6,38.5 11.6,37 4.2,37 4.2,32.6 11.6,32.6 11.6,31 4.2,31 4.2,26.5 
+			11.6,26.5 11.6,25 4.2,25 4.2,16 13.2,16 13.2,18.9 16.3,22.2 15.3,23.1 11.6,19.6 11.6,17.5 5.6,17.5 5.6,23.6 13.2,23.6 
+			13.2,28 5.6,28 5.6,29.5 13.2,29.5 13.2,34.1 5.6,34.1 5.6,35.6 13.2,35.6 13.2,40 5.6,40 5.6,41.5 13.2,41.5 13.2,43.1 4.2,43.1 
+					"/>
 	</g>
-	<rect id="rect5286" x="14.5" y="7.3" class="st7" width="43.2" height="25.2"/>
+	<rect id="rect5286" x="14.5" y="17" class="st3" width="43.2" height="25.2"/>
 </g>
 </svg>
